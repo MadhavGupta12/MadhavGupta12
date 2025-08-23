@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Madhav Gupta</h1>
-<h3 align="center">🚀 Frontend Developer | 📚 DSA Learner | 📊 Data Analytics Enthusiast</h3>
+<h3 align="center">🚀 Frontend Developer | 🚀 Backend Developer | 📚 DSA Learner | 📊 Data Analytics Enthusiast</h3>
 
 ---
 
