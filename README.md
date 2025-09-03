@@ -1,59 +1,44 @@
-# 👋 Hey there, I'm Madhav Gupta!  
-💡 Tech Explorer | 💻 Full-Stack Developer | 📊 Data Analyst | 📈 Finance Enthusiast  
+# 👋 Hi, I'm Madhav Gupta  
+💻 Full-Stack Developer | 📊 Data Analytics | ⚡ Finance Enthusiast  
 
 ---
 
-# 🧑‍💻 About Me  
-- 🔭 Currently learning **Machine Learning & Full-Stack Development**  
-- 🛠️ Building projects in **Frontend | Backend | Finance Analytics | DSA**  
-- 🎯 Exploring **Data + Technology** to solve real-world problems  
-- ⚡ Fun fact: I love mixing **Finance + Tech** to find investment insights 📈  
+## 🌟 About Me  
+- 🚀 Building **Full-Stack projects** (React, Node.js, MongoDB)  
+- 📈 Passionate about **Finance + Data Analytics**  
+- 🧑‍💻 Strong in **Java, Python, C++, DSA**  
+- 🎯 Goal: Blend **Technology + Finance** to create impactful solutions  
 
 ---
 
-# 💻 Tech Stack
-(Already added ✅ – kept it as is because it's 🔥)  
+## 🛠️ Tech Stack  
+
+**Languages:** Java · Python · JavaScript · C++ · SQL  
+**Frontend:** React · Tailwind CSS · Bootstrap  
+**Backend:** Node.js · Express.js · MongoDB  
+**Data Analytics:** Pandas · Numpy · Matplotlib · Power BI  
+**Tools:** Git · GitHub · VS Code · IntelliJ  
 
 ---
 
-# 📈 GitHub Highlights  
-
-### 🐍 Contribution Snake  
-![snake svg](https://github.com/MadhavGupta12/MadhavGupta12/blob/output/github-contribution-grid-snake.svg)  
-
-### 🌌 Contribution Galaxy  
-![GitHub Night Sky](https://github-contribution-stats.vercel.app/api/cards/profile-details?username=MadhavGupta12&theme=github_dark)  
-
-### 🔥 Streak Tracker  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MadhavGupta12&theme=radical&hide_border=false)  
-
-### 💡 Fun Metrics (Click to Explore!)  
-[![Madhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MadhavGupta12&bg_color=0D1117&color=61dafb&line=38ef7d&point=f9f9f9&area=true&hide_border=true)](https://github.com/MadhavGupta12)  
+## 📌 Featured Projects  
+🔹 [**JobMate**](https://github.com/MadhavGupta12/jobmate) – Career Companion & Job Matching Platform  
+🔹 [**Stock Market Analytics**](https://github.com/MadhavGupta12/stock-analytics) – Financial Data Insights with Python  
+🔹 [**DSA in Java**](https://github.com/MadhavGupta12/DSA-Java) – Data Structures & Algorithms Practice  
+🔹 [**Portfolio Website**](https://github.com/MadhavGupta12/portfolio) – Personal Developer Portfolio  
 
 ---
 
-# 🏆 Achievements & Badges  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MadhavGupta12&theme=radical&no-frame=true&margin-w=5&margin-h=5)  
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MadhavGupta12&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavGupta12&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
-# 🎮 Just for Fun (Interactive)  
-
-### 📊 Code Time (WakaTime Integration)  
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MadhavGupta12&theme=github_dark)  
-
-### 🎲 Random Dev Quote  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
-### 🎧 Now Playing on Spotify  
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/)  
-
----
-
-# 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavGupta12&layout=compact&theme=vision-friendly-dark)
-
----
-
-# 👀 Profile Views  
-[![](https://visitcount.itsvg.in/api?id=Madhavgupta12&icon=2&color=6)](https://visitcount.itsvg.in)  
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
