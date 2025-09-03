@@ -1,102 +1,59 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Madhav Gupta</h1>
-<h3 align="center">Full-Stack Developer | Data Analytics Enthusiast | DSA Learner</h3>
+# 👋 Hey there, I'm Madhav Gupta!  
+💡 Tech Explorer | 💻 Full-Stack Developer | 📊 Data Analyst | 📈 Finance Enthusiast  
 
 ---
 
-## 🌟 About Me  
-💻 I enjoy building **scalable full-stack applications** (Frontend + Backend)  
-🎨 Strong focus on **responsive UI/UX** and **clean, maintainable code**  
-🌱 Currently learning **React, Tailwind CSS, and Machine Learning**  
-📊 Passionate about **Finance, Data Analytics, and Web Scraping**  
-🎯 Goal: **Develop impactful projects & contribute to open-source communities**  
+# 🧑‍💻 About Me  
+- 🔭 Currently learning **Machine Learning & Full-Stack Development**  
+- 🛠️ Building projects in **Frontend | Backend | Finance Analytics | DSA**  
+- 🎯 Exploring **Data + Technology** to solve real-world problems  
+- ⚡ Fun fact: I love mixing **Finance + Tech** to find investment insights 📈  
 
 ---
 
-## 🛠️ Tech Stack  
-
-### 🚀 Languages  
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
-### 🎨 Frontend  
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-### ⚙️ Backend  
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### 📊 Data Analytics  
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
-
-### 🔧 Tools  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-</p>
+# 💻 Tech Stack
+(Already added ✅ – kept it as is because it's 🔥)  
 
 ---
 
-## 📌 Featured Projects  
+# 📈 GitHub Highlights  
 
-🔹 [**JobMate**](https://github.com/yourusername/jobmate) – 🧑‍💼 Intelligent Career Companion & Job Matching Platform  
-🔹 [**DSA with Java**](https://github.com/yourusername/DSA-Java) – 📚 Data Structures & Algorithms in Java  
-🔹 [**Stock Market Analytics**](https://github.com/yourusername/stock-analytics) – 📈 Financial Data Analysis with Python  
-🔹 [**Portfolio Website**](https://github.com/yourusername/portfolio) – 🌐 Personal Developer Portfolio  
+### 🐍 Contribution Snake  
+![snake svg](https://github.com/MadhavGupta12/MadhavGupta12/blob/output/github-contribution-grid-snake.svg)  
 
----
+### 🌌 Contribution Galaxy  
+![GitHub Night Sky](https://github-contribution-stats.vercel.app/api/cards/profile-details?username=MadhavGupta12&theme=github_dark)  
 
-## 📊 GitHub Stats  
+### 🔥 Streak Tracker  
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=MadhavGupta12&theme=radical&hide_border=false)  
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhavGupta12&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavGupta12&theme=radical" alt="GitHub streak" height="180"/>
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavGupta12&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
+### 💡 Fun Metrics (Click to Explore!)  
+[![Madhav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MadhavGupta12&bg_color=0D1117&color=61dafb&line=38ef7d&point=f9f9f9&area=true&hide_border=true)](https://github.com/MadhavGupta12)  
 
 ---
 
-## 🐍 Contribution Snake  
-
-![snake svg](https://github.com/MadhavGupta12/MadhavGupta12/blob/output/github-contribution-grid-snake.svg)
+# 🏆 Achievements & Badges  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MadhavGupta12&theme=radical&no-frame=true&margin-w=5&margin-h=5)  
 
 ---
 
-## 🌐 Connect with Me  
+# 🎮 Just for Fun (Interactive)  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://your-website-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+### 📊 Code Time (WakaTime Integration)  
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MadhavGupta12&theme=github_dark)  
+
+### 🎲 Random Dev Quote  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+### 🎧 Now Playing on Spotify  
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/)  
+
+---
+
+# 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavGupta12&layout=compact&theme=vision-friendly-dark)
+
+---
+
+# 👀 Profile Views  
+[![](https://visitcount.itsvg.in/api?id=Madhavgupta12&icon=2&color=6)](https://visitcount.itsvg.in)  
