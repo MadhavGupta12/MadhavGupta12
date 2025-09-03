@@ -66,10 +66,24 @@
 
 ## 📊 GitHub Stats  
 
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MadhavGupta12&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhavGupta12&theme=radical" alt="GitHub streak" height="180"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhavGupta12&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+---
+
 ## 🐍 Contribution Snake  
 
 ![snake svg](https://github.com/MadhavGupta12/MadhavGupta12/blob/output/github-contribution-grid-snake.svg)
-
 
 ---
 
